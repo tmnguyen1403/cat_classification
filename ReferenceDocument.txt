@@ -1,0 +1,4 @@
+Prepare your dataset in ImageRecord format
+    https://gluon-cv.mxnet.io/build/examples_datasets/recordio.html
+Upgrade from DataIter to DataLoader
+    https://mxnet.apache.org/api/python/docs/tutorials/packages/gluon/data/datasets.html
