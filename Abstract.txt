@@ -1,0 +1,1 @@
+The reason I choose using MXnet as a backend framework because its API is quite similar to Pytorch(Facebook) and easier to use than Tensorflow(Google). Moreover, the benchmark for training Resnet Model on MXNet is much faster than Pytorch and Tensorflow( Get the number)
